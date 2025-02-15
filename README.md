@@ -1,4 +1,4 @@
-<h3>Heya! I'm erpix, a 20yo university student passionate about programming</h3>
+<h3>Heya! I'm erpix, a 21yo university student passionate about programming</h3>
 
 - ☕ My favorite language is **Java**
 
